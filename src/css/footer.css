@@ -1,0 +1,6 @@
+.footer {
+    background-color: tomato;
+}
+.footer .container {
+    padding: 40px 0;
+}
